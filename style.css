@@ -110,7 +110,7 @@ audio {
     position: absolute;
     top: 4%;
     width: 14.6%;
-    left: 45%;
+    left: 50%;
     height: 20%;
     z-index: 5;
   }
@@ -118,7 +118,7 @@ audio {
     position: absolute;
     bottom: 0;
     width: 14.6%;
-    left: 25%;
+    left: 30%;
     height: 20%;
     z-index: 20;
     animation: move 15s linear infinite;
